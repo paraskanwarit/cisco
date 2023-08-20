@@ -1,2 +1,2 @@
 # cisco
-This repo will hold code to configure network devices
+This repo will hold code to configure network devices.
